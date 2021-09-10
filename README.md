@@ -12,3 +12,6 @@ O controle das tarefas desse projeto serão realizados no GitHub
 :up: Atualização
 :beatle: Correção de bugs
 :checkered_flag: Realise
+
+
+-
